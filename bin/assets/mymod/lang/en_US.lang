@@ -1,0 +1,14 @@
+item.item_name.name=Item Name
+item.food_item.name=Food Item
+item.tool_item.name=Tool Item
+item.material_helmet.name=Material Helmet
+item.material_chestplate.name=Material Chestplate
+item.material_leggings.name=Material Leggings
+item.material_boots.name=Material Boots
+item.material_ingot.name=Material Ingot
+
+tile.block_name.name=Block Name
+tile.jar.name=Jar
+tile.material_ore.name=Material Ore
+
+itemGroup.tabMyMod=My Mod
